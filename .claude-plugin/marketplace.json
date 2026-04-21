@@ -12,7 +12,7 @@
       "name": "aidrift",
       "source": "./plugins/aidrift",
       "description": "AiDrift slash commands, hooks, and MCP tools for Claude Code.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "author": {
         "name": "GenioHub",
         "email": "support@geniohub.com"

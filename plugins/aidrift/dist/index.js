@@ -21189,7 +21189,7 @@ async function handleCreateCheckpoint(args) {
 // src/index.ts
 var server = new McpServer({
   name: "aidrift",
-  version: "0.3.0"
+  version: "0.3.1"
 });
 server.registerTool(
   "aidrift_status",
